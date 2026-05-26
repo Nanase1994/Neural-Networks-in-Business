@@ -1,0 +1,11 @@
+train1/
+train2/
+test/
+unlabeled/
+*.zip
+*.h5
+*.pkl
+*.pt
+*.keras
+.DS_Store
+.ipynb_checkpoints/
